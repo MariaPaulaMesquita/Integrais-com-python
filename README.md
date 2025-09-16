@@ -1,4 +1,4 @@
-# # 📐 Cálculo de Integrais Definidas em Python
+## 📐 Cálculo de Integrais Definidas em Python
 
 Este trabalho implementa o cálculo de **integrais definidas** usando a **soma de Riemann pelo ponto médio**, a partir de Python.  
 O usuário pode inserir qualquer função elementar (polinômios, funções trigonométricas, exponencial, logaritmo, etc.) e definir o intervalo de integração.
